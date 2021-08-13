@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1482bc9-c880-4aad-b9eb-b138b9e60262" name="Default Changelist" comment="" />
+    <list default="true" id="f1482bc9-c880-4aad-b9eb-b138b9e60262" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1wNc87SsjCFrk4W6jrkPpfTzyWK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +28,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PassByValueInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_6.extractMethod.PassByValueInJava" />
+      <module name="movie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_6.extractMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PassByValueInJava" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,9 +64,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1628334527847">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1155" y="376" key="#com.intellij.ide.util.MemberChooser" timestamp="1628784241816">
+      <screen x="-1920" y="140" width="1920" height="1040" />
     </state>
+    <state x="-1155" y="376" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.140.1920.1040@-1920.140.1920.1040" timestamp="1628784241816" />
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.140.1920.1040@0.0.1920.1040" timestamp="1628334527847" />
+    <state x="-1272" y="585" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1628876900414">
+      <screen x="-1920" y="140" width="1920" height="1040" />
+    </state>
+    <state x="-1272" y="585" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1920.140.1920.1040@-1920.140.1920.1040" timestamp="1628876900414" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1628872205498">
+      <screen x="-1920" y="140" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.140.1920.1040@-1920.140.1920.1040" timestamp="1628872205498" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1628872205498">
+      <screen x="-1920" y="140" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.140.1920.1040@-1920.140.1920.1040" timestamp="1628872205498" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1628872205498">
+      <screen x="-1920" y="140" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.140.1920.1040@-1920.140.1920.1040" timestamp="1628872205498" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1628872205498">
+      <screen x="-1920" y="140" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.140.1920.1040@-1920.140.1920.1040" timestamp="1628872205498" />
   </component>
 </project>
