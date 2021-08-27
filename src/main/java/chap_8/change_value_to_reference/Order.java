@@ -9,7 +9,7 @@ public class Order {
     private Customer customer;
 
     public Order(String customerName) {
-        this.customer = Customer.create(customerName);
+        this.customer = Customer.getName(customerName);
     }
 
     public String getCustomerName() {
@@ -17,7 +17,7 @@ public class Order {
     }
 
     public void setCustomer(String customerName) {
-        this.customer = new Customer(customerName);
+        this.customer = customer.getName(customerName);
     }
 }
 
@@ -25,7 +25,7 @@ class Customer {
 
     private final String name;
 
-    private static HashMap instances = new HashMap();
+    private static HashMap<String, Customer> instances = new HashMap<String, Customer>();
 
     private Customer(String name) {
         this.name = name;
@@ -36,7 +36,7 @@ class Customer {
     }
 
     public static Customer getName(String name) {
-        return (Customer)instances.get(name);
+        return (Customer) instances.get(name);
     }
 
     static void loadCustomer() {
